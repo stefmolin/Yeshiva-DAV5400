@@ -1,2 +1,3 @@
-# Yeshiva-DAV5400
-Template repository for Yeshiva's DAV5400 with configuration for GitHub codespaces (VS Code and Jupyter Lab).
+# DAV5400: Analytics Programming
+
+Template repository for Yeshiva's DAV5400: Analytics Programming course with configuration for GitHub codespaces (VS Code and Jupyter Lab).
