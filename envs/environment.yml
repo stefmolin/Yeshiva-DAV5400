@@ -1,0 +1,14 @@
+name: dav5400
+channels:
+    - conda-forge
+dependencies:
+    - python=3.10
+    - jupyterlab
+    - matplotlib
+    - numpy
+    - pandas
+    - requests
+    - pip
+    - scikit-learn
+    - seaborn
+    - sqlalchemy

@@ -1,0 +1,9 @@
+jupyterlab
+matplotlib
+numpy
+pandas
+pip
+requests
+scikit-learn
+seaborn
+sqlalchemy
