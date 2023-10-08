@@ -3,12 +3,14 @@ channels:
     - conda-forge
 dependencies:
     - python=3.10
+    - black
     - jupyterlab
     - matplotlib
     - numpy
     - pandas
-    - requests
     - pip
+    - pytest
+    - requests
     - scikit-learn
     - seaborn
     - sqlalchemy
