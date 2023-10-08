@@ -1,8 +1,9 @@
+black
 jupyterlab
 matplotlib
 numpy
 pandas
-pip
+pytest
 requests
 scikit-learn
 seaborn
