@@ -3,6 +3,7 @@ black
 jupyterlab
 lxml
 matplotlib
+nltk
 numpy
 pandas
 pytest
